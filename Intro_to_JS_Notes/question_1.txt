@@ -57,3 +57,18 @@ and build server-side applications with the help of runtime environments
 such as Node.js.
 
 --------------------------------------------------
+
+Question - 1.5 : What is Javascript?
+Answer :
+Javascript is a popular programming language that is widely used to build 
+web applications.
+It is a client-side scripting language, which means that it is run by our 
+web browser rather than on a server.
+This makes it a good choice for building web applications that need to be 
+fast and responsive, as the code is run locally on the user's device rather 
+than having to be sent back and forth between a server and a client.
+Javascript is also used to build mobile apps, create interactive documents, 
+and build server-side applications with the help of runtime environments such 
+as Node.js.
+
+----------------------------------------------------
