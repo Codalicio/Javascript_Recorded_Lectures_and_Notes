@@ -29,3 +29,15 @@ console.log(num2, typeof num2);
 console.log(num3, typeof num3);
 console.log(num4, typeof num4);
 console.log(num5, typeof num5);
+
+// -------------------------------------------
+
+// 1.3 BigInt :
+
+const bigNum1 = 1234567890123456789012345678901234567890n;
+const bigNum2 = BigInt(123456789012345678901234567890123);
+
+console.log(bigNum1, typeof bigNum1);
+console.log(bigNum2, typeof bigNum2);
+
+// -----------------------------------------------
