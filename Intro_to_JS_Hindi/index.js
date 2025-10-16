@@ -41,3 +41,13 @@ console.log(bigNum1, typeof bigNum1);
 console.log(bigNum2, typeof bigNum2);
 
 // -----------------------------------------------
+
+// 1.4 Boolean : true or false
+
+let isLoggedIn = true;
+let isAdmin = false;
+
+console.log(isLoggedIn, typeof isLoggedIn);
+console.log(isAdmin, typeof isAdmin);
+
+// ----------------------------------------------------
