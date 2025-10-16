@@ -15,3 +15,17 @@ console.log(mentor2, typeof mentor2);
 console.log(mentor3, typeof mentor3);
 
 // ---------------------------------------
+
+// 1.2. Number :
+
+let num1 = 1234567890;
+let num2 = 98.74;
+let num3 = Infinity;
+let num4 = NaN;
+let num5 = -45;
+
+console.log(num1, typeof num1);
+console.log(num2, typeof num2);
+console.log(num3, typeof num3);
+console.log(num4, typeof num4);
+console.log(num5, typeof num5);
