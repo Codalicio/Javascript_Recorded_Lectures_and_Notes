@@ -76,3 +76,17 @@ console.log(notInitializedValue, typeof notInitializedValue);
 console.log(undefinedValue, typeof undefinedValue);
 
 // ----------------------------------------------------
+
+// 2. Non-primitive Data Types :
+
+// 2.1 Array :
+
+const fruits = ["Apple", "Banana", "Mango", "Orange"];
+const numbers = [0, 1, 2, 3, 4, 5, 6];
+const mixedArray = ["Hello", 123, true, null, undefined];
+
+console.log(fruits, typeof fruits);
+console.log(numbers, typeof numbers);
+console.log(mixedArray, typeof mixedArray);
+
+// ----------------------------------------------
