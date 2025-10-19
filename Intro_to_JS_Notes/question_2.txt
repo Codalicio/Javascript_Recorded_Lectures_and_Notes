@@ -2,14 +2,14 @@ Question - 2.1 : Describe the history of Javascript?
 Answer :
 Javascript was created in 1995 by Brendan Eich, a programmer at Netscape 
 Communications Corporation.
-It was originally called Mocha, Then changed to LiveScript, and finally, 
+It was originally called Mocha, then changed to LiveScript, and finally, 
 it was given the name JavaScript to leverage the popularity of Java, which 
 was a popular programming language at the time.
 Javascript was first introduced in Netscape Navigator 2.0, a popular web 
 browser of the time.
 In 1996, Javascript was submitted to the European Computer Manufacturers 
 Association (ECMA) and it was standardized as ECMAScript. This standardized 
-version of Javascript is still used today and it is supported by all modern 
+version of Javascript is still used today and is supported by all modern 
 web browsers like Google Chrome, Mozilla Firefox, Apple Safari, Microsoft 
 Edge, etc.
 In the early days of Javascript, it was primarily used for simple things 
@@ -24,3 +24,30 @@ server-side and it became more popular as a full-stack language, allowing
 for code reuse and sharing between the client-side and the server-side.
 
 ---------------------------------------------------------------
+
+Question - 2.2 : Describe the history of Javascript?
+Answer :
+Javascript was created in 1995 by Brendan Eich, a programmer at Netscape 
+Communications Corporation.
+It was originally called Mocha, then changed to LiveScript, and finally, 
+it was given the name JavaScript to leverage the popularity of Java, which 
+was a popular programming language at the time.
+Javascript was first introduced in Netscape Navigator 2.0, a popular web 
+browser of the time.
+In 1996, Javascript was submitted to the European Computer Manufacturers 
+Association (ECMA) and it was standardized as ECMAScript.
+This standardized version of Javascript is still used today and is supported 
+by all modern web browsers like Google Chrome, Mozilla FireFox, Apple Safari, 
+Microsoft Edge, etc.
+In the early days of Javascript, it was primarily used for simple things 
+like form validation and simple mouse interactions, but as browsers became 
+more powerful and web standards evolved, Javascript became more widely used 
+for building more complex web applications.
+With the introduction of popular libraries and frameworks like JQuery, 
+AngularJS, React, and Vue.js, it has become easier to build complex and 
+powerful web applications using Javascript.
+The emergence of Node.js in 2009 made it possible to run Javascript on the 
+server-side and it became more popular as a full-stack language, allowing 
+for code reuse and sharing between the client-side and the server-side.
+
+----------------------------------------------------
