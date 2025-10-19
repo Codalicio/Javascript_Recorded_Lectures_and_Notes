@@ -90,3 +90,19 @@ console.log(numbers, typeof numbers);
 console.log(mixedArray, typeof mixedArray);
 
 // ----------------------------------------------
+
+// 2.2 Object :
+
+const personDetails = {
+  name: "Amit",
+  age: 28,
+  isEmployed: false,
+  details: () => {
+    return `My name is ${personDetails.name}, I am ${personDetails.age} years old and I am employed is : ${personDetails.isEmployed}.`;
+  },
+};
+
+console.log(personDetails.details());
+console.log(personDetails, typeof personDetails);
+
+// -------------------------------------------------
