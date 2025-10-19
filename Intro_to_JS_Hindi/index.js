@@ -55,3 +55,24 @@ const b = BigInt(5000);
 console.log(a + b);
 
 // ----------------------------------------------------
+
+// 1.5 null :
+
+const emptyValue1 = null;
+const value = 2;
+const output = emptyValue1 + value;
+
+console.log(emptyValue1, typeof emptyValue1);
+console.log(output, typeof output);
+
+// -------------------------------------------------
+
+// 1.6 undefined :
+
+let notInitializedValue;
+const undefinedValue = undefined;
+
+console.log(notInitializedValue, typeof notInitializedValue);
+console.log(undefinedValue, typeof undefinedValue);
+
+// ----------------------------------------------------
