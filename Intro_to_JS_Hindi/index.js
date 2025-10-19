@@ -50,4 +50,8 @@ let isAdmin = false;
 console.log(isLoggedIn, typeof isLoggedIn);
 console.log(isAdmin, typeof isAdmin);
 
+const a = BigInt(123456789000);
+const b = BigInt(5000);
+console.log(a + b);
+
 // ----------------------------------------------------
